@@ -18,6 +18,6 @@ export default {
 </script>
 
 
-<style lang="scss">
-  @import "assets/css/normalize.css";
+<style>
+ @import 'assets/css/base.css';
 </style>
