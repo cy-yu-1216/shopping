@@ -13,7 +13,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
  .slide-image {
     width: 100%;
     flex-shrink:0;
@@ -26,5 +26,6 @@ export default {
 }
   .slide img {
     width: 100%;
+    overflow: hidden;
   }
 </style>
